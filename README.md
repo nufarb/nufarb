@@ -7,7 +7,7 @@ My name is Nufar (yes, yes with u) Braunstein, I'm 28 years old. I grew up in mo
 
 During my degree I discovered programming, learning different languages and writing code, which sparked my interest in finding a job that will allow me to develop my skills in this field.
 
-Therefor I'm looking for a job as a backend developer, I have no experience but I'm eager to learn and to work hard.
+Therefor I'm looking for a job as a backend developer, I have no experience in this field but I'm eager to learn and to work hard.
 I know python and matlab but open to learn new languages.
 
 I am a very responsible, diligent and proactive person with good management skills. I am autodidact and a "team player". I am very loyal and dedicated to my workplace. 
