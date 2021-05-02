@@ -4,7 +4,7 @@
 My name is Nufar (yes, yes with u) Braunstein, I'm 28 years old. I grew up in moshav 'Idan' in the Arava and today I live in Rehovot. I have B.Sc in biomedical engineering from Tel Aviv university.
 
 ---
-
+#### 💻 Work:
 During my degree I discovered programming, learning different languages and writing code, which sparked my interest in finding a job that will allow me to develop my skills in this field.
 
 Therefor I'm looking for a job as a backend developer, I have no experience in this field but I'm eager to learn and to work hard.
