@@ -1,7 +1,7 @@
 ### Hi there, welcome to my Github page 👋
 ---
 #### 💁 About me:
-My name is Nufar (yes, yes with u) Braunstein, I'm 28 years old. I grew up in moshav 'Idan' in the Arava and today I live in Rehovot. I have B.Sc in biomedical engineering from Tel Aviv university.
+My name is Nufar Braunstein, I'm 28 years old. I grew up in moshav 'Idan' in the Arava and today I live in Rehovot. I have B.Sc in biomedical engineering from Tel Aviv university.
 
 ---
 #### 💻 Work:
